@@ -1,0 +1,1222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+DURATION:PT1H
+DTSTART:20250514T000000Z
+SUMMARY:Solve: Lowest Common Ancestor of a Binary Search Tree (Medium)
+UID:41acc5f4-1ebc-464a-a0ad-a392fc5f619f@41ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/interval-list-intersections
+DURATION:PT1H
+DTSTART:20250321T000000Z
+SUMMARY:Solve: Interval List Intersections (Medium)
+UID:22453985-4beb-4161-906c-22b92a49ca9c@2245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/invert-binary-tree
+DURATION:PT1H
+DTSTART:20250516T000000Z
+SUMMARY:Solve: Invert Binary Tree (Easy)
+UID:6a4ccf96-9076-4c48-be49-a39e586a011b@6a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/two-sum
+DURATION:PT1H
+DTSTART:20250530T000000Z
+SUMMARY:Solve: Two Sum (Easy)
+UID:67ce0b10-3587-4baa-893a-ecd763aa73f0@67ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/merge-two-sorted-lists
+DURATION:PT1H
+DTSTART:20250314T000000Z
+SUMMARY:Solve: Merge Two Sorted Lists (Easy)
+UID:900ec578-f8f0-4b11-b484-c795cdaa70e1@900e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies
+DURATION:PT1H
+DTSTART:20250616T000000Z
+SUMMARY:Solve: Sort Items by Groups Respecting Dependencies (Hard)
+UID:9960ef28-67a6-4ea2-aa1f-588582472a29@9960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/longest-palindromic-substring
+DURATION:PT1H
+DTSTART:20250210T000000Z
+SUMMARY:Solve: Longest Palindromic Substring (Medium)
+UID:066d0387-9283-4b58-a238-ffdd7a855a44@066d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/merge-intervals
+DURATION:PT1H
+DTSTART:20250320T000000Z
+SUMMARY:Solve: Merge Intervals (Medium)
+UID:114371a3-b321-4d8a-bd99-f30024ab63b5@1143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/convert-1d-array-into-2d-array
+DURATION:PT1H
+DTSTART:20250619T000000Z
+SUMMARY:Solve: Convert 1D Array Into 2D Array (Easy)
+UID:e2c76bb5-6b70-4ce0-8995-68a3bb5fa527@e2c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-frequency-stack
+DURATION:PT1H
+DTSTART:20250426T000000Z
+SUMMARY:Solve: Maximum Frequency Stack (Hard)
+UID:13a80add-f263-4e48-bda6-3a13ee4e3f89@13a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/missing-number
+DURATION:PT1H
+DTSTART:20250104T000000Z
+SUMMARY:Solve: Missing Number (Easy)
+UID:f3409290-7d0e-4899-847d-19551e6bed49@f340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/partition-equal-subset-sum
+DURATION:PT1H
+DTSTART:20250218T000000Z
+SUMMARY:Solve: Partition Equal Subset Sum (Medium)
+UID:e1ece9ce-9447-4d6c-9bb0-6f96726a1d7e@e1ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-binary-tree
+DURATION:PT1H
+DTSTART:20250520T000000Z
+SUMMARY:Solve: Maximum Binary Tree (Medium)
+UID:24e1d4ad-0394-4735-8c80-1cb24fcc1b5f@24e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/diameter-of-binary-tree
+DURATION:PT1H
+DTSTART:20250512T000000Z
+SUMMARY:Solve: Diameter of Binary Tree (Easy)
+UID:b9febe39-970e-49e1-97f4-6359db5b0779@b9fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sliding-window-median
+DURATION:PT1H
+DTSTART:20250529T000000Z
+SUMMARY:Solve: Sliding Window Median (Hard)
+UID:895c314e-0a26-49e7-803e-22fc4ea4e715@895c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings
+DURATION:PT1H
+DTSTART:20250624T000000Z
+SUMMARY:Solve: Split a String Into the Max Number of Unique Substrings (Medium)
+UID:985a7c07-de7c-41db-9ce7-b15f2fd4ef67@985a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/permutations-ii
+DURATION:PT1H
+DTSTART:20250120T000000Z
+SUMMARY:Solve: Permutations II (Medium)
+UID:e8364724-ddc1-4980-b3b6-1fdcfd0e8d54@e836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/minimum-height-trees
+DURATION:PT1H
+DTSTART:20250429T000000Z
+SUMMARY:Solve: Minimum Height Trees (Medium)
+UID:e93eac8e-468d-4a5b-baf2-2a5ac8045848@e93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/word-search
+DURATION:PT1H
+DTSTART:20250113T000000Z
+SUMMARY:Solve: Word Search (Medium)
+UID:e1831624-25ec-4fe6-99f1-30efa1631872@e183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/longest-repeating-character-replacement
+DURATION:PT1H
+DTSTART:20250411T000000Z
+SUMMARY:Solve: Longest Repeating Character Replacement (Medium)
+UID:f5bf189e-a253-4b7e-b579-c6906a9e3f1e@f5bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+DURATION:PT1H
+DTSTART:20250325T000000Z
+SUMMARY:Solve: Minimum Number of Arrows to Burst Balloons (Medium)
+UID:721b1fa9-917e-4f14-ac88-792960d1a6e4@721b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/search-a-2d-matrix-ii
+DURATION:PT1H
+DTSTART:20250405T000000Z
+SUMMARY:Solve: Search a 2D Matrix II (Medium)
+UID:8050f449-8011-4430-81d0-419281fdea00@8050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/remove-linked-list-elements
+DURATION:PT1H
+DTSTART:20250226T000000Z
+SUMMARY:Solve: Remove Linked List Elements (Easy)
+UID:405ba156-5a47-4119-864a-e525ae82b213@405b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/reorder-list
+DURATION:PT1H
+DTSTART:20250304T000000Z
+SUMMARY:Solve: Reorder List (Medium)
+UID:25f0442c-0fab-4a71-a644-ba00dd09f38f@25f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/design-search-autocomplete-system
+DURATION:PT1H
+DTSTART:20250614T000000Z
+SUMMARY:Solve: Design Search Autocomplete System (Hard)
+UID:7322f698-e73e-4478-b0ad-afe75ddf44c8@7322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/generalized-abbreviation
+DURATION:PT1H
+DTSTART:20250129T000000Z
+SUMMARY:Solve: Generalized Abbreviation (Medium)
+UID:44e641c5-077d-46f5-9224-ffd4a5717995@44e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/palindrome-pairs
+DURATION:PT1H
+DTSTART:20250613T000000Z
+SUMMARY:Solve: Palindrome Pairs (Hard)
+UID:f71c49ba-1cfe-4f8b-ad46-d5e3a91d6ce6@f71c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal-ii
+DURATION:PT1H
+DTSTART:20250502T000000Z
+SUMMARY:Solve: Binary Tree Level Order Traversal II (Medium)
+UID:97533932-693b-42f1-9f89-b261719c2268@9753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/longest-increasing-subsequence
+DURATION:PT1H
+DTSTART:20250209T000000Z
+SUMMARY:Solve: Longest Increasing Subsequence (Medium)
+UID:326481df-176e-4d4f-a421-ba57b3e9a83f@3264.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+DURATION:PT1H
+DTSTART:20250522T000000Z
+SUMMARY:Solve: Construct Binary Tree from Preorder and Inorder Traversal (Medium)
+UID:9ecce18b-31e5-4d60-b61d-de980c291d6e@9ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/merge-k-sorted-lists
+DURATION:PT1H
+DTSTART:20250317T000000Z
+SUMMARY:Solve: Merge k Sorted Lists (Hard)
+UID:67864ed0-a371-4ab1-a738-102cf1cb91e8@6786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-tree-right-side-view
+DURATION:PT1H
+DTSTART:20250507T000000Z
+SUMMARY:Solve: Binary Tree Right Side View (Medium)
+UID:5ff0649c-69e7-412b-905a-e41e379eff4f@5ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/product-of-array-except-self
+DURATION:PT1H
+DTSTART:20250107T000000Z
+SUMMARY:Solve: Product of Array Except Self (Medium)
+UID:d79c44d0-e8cc-4dea-a0b5-b855ccf9fb84@d79c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/concatenated-words
+DURATION:PT1H
+DTSTART:20250611T000000Z
+SUMMARY:Solve: Concatenated Words (Hard)
+UID:8b03c401-9c20-4275-8240-9eca2a5cef94@8b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/jump-game
+DURATION:PT1H
+DTSTART:20250215T000000Z
+SUMMARY:Solve: Jump Game (Medium)
+UID:c6c028de-d4be-44c2-8d8e-998cae81d0db@c6c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/peak-index-in-a-mountain-array
+DURATION:PT1H
+DTSTART:20250330T000000Z
+SUMMARY:Solve: Peak Index in a Mountain Array (Medium)
+UID:d0454f17-f767-4c69-a8d6-ce7be1359787@d045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/reverse-linked-list
+DURATION:PT1H
+DTSTART:20250224T000000Z
+SUMMARY:Solve: Reverse Linked List (Easy)
+UID:64737a54-f17e-4628-9300-713c547f2633@6473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+DURATION:PT1H
+DTSTART:20250331T000000Z
+SUMMARY:Solve: Find Minimum in Rotated Sorted Array (Medium)
+UID:36e04868-8da7-43ff-ad61-4ad34aaf88f3@36e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/move-zeroes
+DURATION:PT1H
+DTSTART:20250620T000000Z
+SUMMARY:Solve: Move Zeroes (Easy)
+UID:d7350a8c-4fbc-4ec6-a94e-9ee9a0f59d64@d735.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sort-characters-by-frequency
+DURATION:PT1H
+DTSTART:20250421T000000Z
+SUMMARY:Solve: Sort Characters By Frequency (Medium)
+UID:11cde7c6-d1d8-4a39-92aa-f87e7cc66825@11cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/minimum-depth-of-binary-tree
+DURATION:PT1H
+DTSTART:20250504T000000Z
+SUMMARY:Solve: Minimum Depth of Binary Tree (Easy)
+UID:d68e7632-8d57-41e6-b3f7-43827c2e95d7@d68e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list
+DURATION:PT1H
+DTSTART:20250227T000000Z
+SUMMARY:Solve: Remove Duplicates from Sorted List (Easy)
+UID:eee2d621-a6ac-46b3-8da3-70628b24db71@eee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+DURATION:PT1H
+DTSTART:20250105T000000Z
+SUMMARY:Solve: Find All Numbers Disappeared in an Array (Easy)
+UID:ec8228f1-8386-4b03-86f5-7e89c7c16974@ec82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/task-scheduler
+DURATION:PT1H
+DTSTART:20250324T000000Z
+SUMMARY:Solve: Task Scheduler (Medium)
+UID:8fbd5724-3167-44d7-a88c-920e3ce07ba2@8fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/search-a-2d-matrix
+DURATION:PT1H
+DTSTART:20250404T000000Z
+SUMMARY:Solve: Search a 2D Matrix (Medium)
+UID:ac41a4b3-f7d9-478e-96af-04241b21a6e8@ac41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string
+DURATION:PT1H
+DTSTART:20250415T000000Z
+SUMMARY:Solve: Count Unique Characters of All Substrings of a Given String (Hard)
+UID:f4cd7943-8ca9-4c1b-bf13-7febf723c9e9@f4cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/squares-of-a-sorted-array
+DURATION:PT1H
+DTSTART:20250531T000000Z
+SUMMARY:Solve: Squares of a Sorted Array (Easy)
+UID:6296ccd7-8643-4458-959a-75e60818c3fb@6296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/decode-ways
+DURATION:PT1H
+DTSTART:20250213T000000Z
+SUMMARY:Solve: Decode Ways (Medium)
+UID:4a40beaf-be5e-43fe-a5ee-f98464a7a8bb@4a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/permutations
+DURATION:PT1H
+DTSTART:20250119T000000Z
+SUMMARY:Solve: Permutations (Medium)
+UID:248742a5-8c87-484a-8b6a-876a9eb70283@2487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/implement-trie-prefix-tree
+DURATION:PT1H
+DTSTART:20250524T000000Z
+SUMMARY:Solve: Implement Trie (Prefix Tree) (Medium)
+UID:864a0338-2b79-4d1e-9842-96bb2dcc4347@864a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sort-list
+DURATION:PT1H
+DTSTART:20250303T000000Z
+SUMMARY:Solve: Sort List (Medium)
+UID:506ca599-7e89-40fd-a09d-c1f88a195a12@506c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/remove-nth-node-from-end-of-list
+DURATION:PT1H
+DTSTART:20250302T000000Z
+SUMMARY:Solve: Remove Nth Node From End of List (Medium)
+UID:53bef41d-236a-4857-a745-11c999be86bd@53be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-smallest-letter-greater-than-target
+DURATION:PT1H
+DTSTART:20250329T000000Z
+SUMMARY:Solve: Find Smallest Letter Greater Than Target (Easy)
+UID:1b29f5c5-b5b1-4f8d-bb32-fceec6434aec@1b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/combination-sum-iii
+DURATION:PT1H
+DTSTART:20250124T000000Z
+SUMMARY:Solve: Combination Sum III (Medium)
+UID:ec67ba8d-0fd4-4edd-8f36-d1e9c6e3001a@ec67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/set-matrix-zeroes
+DURATION:PT1H
+DTSTART:20250110T000000Z
+SUMMARY:Solve: Set Matrix Zeroes (Medium)
+UID:e7ef6276-526c-4463-aa25-f397f3fc8ab3@e7ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/house-robber-ii
+DURATION:PT1H
+DTSTART:20250206T000000Z
+SUMMARY:Solve: House Robber II (Medium)
+UID:f79b26e7-7ee8-42ab-b0bd-f10bc5fba739@f79b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/word-search-ii
+DURATION:PT1H
+DTSTART:20250527T000000Z
+SUMMARY:Solve: Word Search II (Hard)
+UID:eb8dd66f-443e-4de8-9acf-f1ede6ba7374@eb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/reverse-nodes-in-k-group
+DURATION:PT1H
+DTSTART:20250313T000000Z
+SUMMARY:Solve: Reverse Nodes in k-Group (Hard)
+UID:000c20f1-20a4-49ef-a5f5-4ab94dae77de@000c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/course-schedule
+DURATION:PT1H
+DTSTART:20250427T000000Z
+SUMMARY:Solve: Course Schedule (Medium)
+UID:b2793390-9feb-409b-b0ab-5f87e78bc0aa@b279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-subarray
+DURATION:PT1H
+DTSTART:20250204T000000Z
+SUMMARY:Solve: Maximum Subarray (Medium)
+UID:b5738b4b-0c1c-4d6d-9825-c16b22d104c9@b573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/climbing-stairs
+DURATION:PT1H
+DTSTART:20250201T000000Z
+SUMMARY:Solve: Climbing Stairs (Easy)
+UID:db309f98-f8b7-462b-9171-637195b13481@db30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii
+DURATION:PT1H
+DTSTART:20250403T000000Z
+SUMMARY:Solve: Search in Rotated Sorted Array II (Medium)
+UID:488a12ad-690a-424b-90c5-8f81b9bc9d2a@488a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/path-sum-iii
+DURATION:PT1H
+DTSTART:20250518T000000Z
+SUMMARY:Solve: Path Sum III (Medium)
+UID:5b7597b3-02d3-4515-a95d-c006cf98cc62@5b75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-median-from-data-stream
+DURATION:PT1H
+DTSTART:20250528T000000Z
+SUMMARY:Solve: Find Median from Data Stream (Hard)
+UID:a1d92819-be3b-481c-8109-f62a0ac1640c@a1d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-depth-of-binary-tree
+DURATION:PT1H
+DTSTART:20250511T000000Z
+SUMMARY:Solve: Maximum Depth of Binary Tree (Easy)
+UID:966937ff-037e-4233-afb6-9ff0cc6facf7@9669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/count-of-range-sum
+DURATION:PT1H
+DTSTART:20250407T000000Z
+SUMMARY:Solve: Count of Range Sum (Hard)
+UID:b5101cb5-348a-4661-bcec-83fbf8fe34c1@b510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-average-subarray-i
+DURATION:PT1H
+DTSTART:20250625T000000Z
+SUMMARY:Solve: Maximum Average Subarray I (Easy)
+UID:c723ac38-031a-4d4f-aeaf-43b9af91e32f@c723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/k-closest-points-to-origin
+DURATION:PT1H
+DTSTART:20250419T000000Z
+SUMMARY:Solve: K Closest Points to Origin (Medium)
+UID:5d7f7dba-aa71-4594-b2ad-9cb7dfb2f87d@5d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/reverse-linked-list-ii
+DURATION:PT1H
+DTSTART:20250309T000000Z
+SUMMARY:Solve: Reverse Linked List II (Medium)
+UID:6a0eafc7-6d1e-46d0-a64d-275aaba278ba@6a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/longest-consecutive-sequence
+DURATION:PT1H
+DTSTART:20250115T000000Z
+SUMMARY:Solve: Longest Consecutive Sequence (Medium)
+UID:513f2e30-59f8-4e53-804a-f94ce17d1f32@513f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/meeting-rooms
+DURATION:PT1H
+DTSTART:20250319T000000Z
+SUMMARY:Solve: Meeting Rooms (Easy)
+UID:cc33c6ba-c91d-48a2-99d8-d7cadca7e285@cc33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+DURATION:PT1H
+DTSTART:20250219T000000Z
+SUMMARY:Solve: Partition to K Equal Sum Subsets (Medium)
+UID:47b0f67c-8c87-4ba0-a578-5e26fe15869c@47b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/longest-word-in-dictionary
+DURATION:PT1H
+DTSTART:20250608T000000Z
+SUMMARY:Solve: Longest Word in Dictionary (Medium)
+UID:2597c4b2-219f-4bb8-8774-d7164464ecdb@2597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/range-sum-query-immutable
+DURATION:PT1H
+DTSTART:20250205T000000Z
+SUMMARY:Solve: Range Sum Query - Immutable (Easy)
+UID:8019fb0d-0fd6-4012-9617-267e0fb51d62@8019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/n-queens
+DURATION:PT1H
+DTSTART:20250131T000000Z
+SUMMARY:Solve: N-Queens (Hard)
+UID:40cd491b-6fa9-48e5-b51f-6f4cdd8ec4a3@40cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+DURATION:PT1H
+DTSTART:20250220T000000Z
+SUMMARY:Solve: Best Time to Buy and Sell Stock with Cooldown (Medium)
+UID:c601c059-a20e-4920-a1f0-1626b0303956@c601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/substring-with-concatenation-of-all-words
+DURATION:PT1H
+DTSTART:20250417T000000Z
+SUMMARY:Solve: Substring with Concatenation of All Words (Hard)
+UID:00564410-20f4-41d2-9358-3c6bc244604e@0056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/minimum-window-substring
+DURATION:PT1H
+DTSTART:20250416T000000Z
+SUMMARY:Solve: Minimum Window Substring (Hard)
+UID:8045e1e8-b2c4-41c0-87f5-b16d53e795c8@8045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/word-squares
+DURATION:PT1H
+DTSTART:20250615T000000Z
+SUMMARY:Solve: Word Squares (Hard)
+UID:1f2f8fe0-dd5a-492f-873a-d0335a863f31@1f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/majority-element
+DURATION:PT1H
+DTSTART:20250618T000000Z
+SUMMARY:Solve: Majority Element (Easy)
+UID:f5206a13-b25e-44c5-9948-34c4edf00525@f520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/prefix-and-suffix-search
+DURATION:PT1H
+DTSTART:20250612T000000Z
+SUMMARY:Solve: Prefix and Suffix Search (Hard)
+UID:83487955-54b7-40ae-88eb-6129b5b22eb0@8348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number
+DURATION:PT1H
+DTSTART:20250128T000000Z
+SUMMARY:Solve: Letter Combinations of a Phone Number (Medium)
+UID:6ff234a7-0869-45b6-a5b5-37e13f6aaa8a@6ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sliding-window-maximum
+DURATION:PT1H
+DTSTART:20250412T000000Z
+SUMMARY:Solve: Sliding Window Maximum (Hard)
+UID:002dcc0c-e6e7-4f32-a7de-0d93431dcc11@002d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/meeting-rooms-ii
+DURATION:PT1H
+DTSTART:20250323T000000Z
+SUMMARY:Solve: Meeting Rooms II (Medium)
+UID:85649cc4-64c6-4f79-81b9-464998634308@8564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/longest-substring-without-repeating-characters
+DURATION:PT1H
+DTSTART:20250413T000000Z
+SUMMARY:Solve: Longest Substring Without Repeating Characters (Medium)
+UID:28f0f79c-6f65-4b13-bccc-a6c8e1f12bb6@28f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/index-pairs-of-a-string
+DURATION:PT1H
+DTSTART:20250609T000000Z
+SUMMARY:Solve: Index Pairs of a String (Easy)
+UID:bd7ca0dd-d0aa-4b48-a653-44e7136d0858@bd7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+DURATION:PT1H
+DTSTART:20250526T000000Z
+SUMMARY:Solve: Serialize and Deserialize Binary Tree (Hard)
+UID:8f421bd1-2804-4585-88a6-67c55e574717@8f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/rotate-image
+DURATION:PT1H
+DTSTART:20250112T000000Z
+SUMMARY:Solve: Rotate Image (Medium)
+UID:3a56536f-e5ed-45e7-9ce1-fc48452c70aa@3a56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/unique-paths
+DURATION:PT1H
+DTSTART:20250214T000000Z
+SUMMARY:Solve: Unique Paths (Medium)
+UID:eb11f1e3-8344-4c32-9071-a7e0de5f08a1@eb11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/single-number
+DURATION:PT1H
+DTSTART:20250106T000000Z
+SUMMARY:Solve: Single Number (Easy)
+UID:364a0465-e847-4f99-baf9-05a51a1b1c54@364a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/counting-bits
+DURATION:PT1H
+DTSTART:20250221T000000Z
+SUMMARY:Solve: Counting Bits (Easy)
+UID:e34a8122-0a61-4f11-93e4-a6a5f9519eb2@e34a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-width-of-binary-tree
+DURATION:PT1H
+DTSTART:20250521T000000Z
+SUMMARY:Solve: Maximum Width of Binary Tree (Medium)
+UID:e2d2d00a-c779-463f-b447-0b4650101147@e2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/3sum-closest
+DURATION:PT1H
+DTSTART:20250603T000000Z
+SUMMARY:Solve: 3Sum Closest (Medium)
+UID:92fdc9b1-a90f-4a95-8d48-2f8838ebfd6a@92fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/spiral-matrix
+DURATION:PT1H
+DTSTART:20250111T000000Z
+SUMMARY:Solve: Spiral Matrix (Medium)
+UID:cb1938a7-03ee-4e91-bef2-3e9bc007375f@cb19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/number-of-islands
+DURATION:PT1H
+DTSTART:20250306T000000Z
+SUMMARY:Solve: Number of Islands (Medium)
+UID:15299e23-4954-42cb-ba82-6fb780afa0ee@1529.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/path-sum
+DURATION:PT1H
+DTSTART:20250510T000000Z
+SUMMARY:Solve: Path Sum (Easy)
+UID:9274aeb6-2fe2-437d-955b-0536c216dc8c@9274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/combination-sum-ii
+DURATION:PT1H
+DTSTART:20250123T000000Z
+SUMMARY:Solve: Combination Sum II (Medium)
+UID:6a92287c-95ae-4b1f-a2b8-cb7b6c8fc322@6a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/insert-interval
+DURATION:PT1H
+DTSTART:20250326T000000Z
+SUMMARY:Solve: Insert Interval (Medium)
+UID:2d2ea5d7-2572-43f3-8db4-f7640082649e@2d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/non-overlapping-intervals
+DURATION:PT1H
+DTSTART:20250322T000000Z
+SUMMARY:Solve: Non-overlapping Intervals (Medium)
+UID:fb7b1fcb-f1a4-4911-9cef-6b288ccb8135@fb7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-tree-level-order-traversal
+DURATION:PT1H
+DTSTART:20250505T000000Z
+SUMMARY:Solve: Binary Tree Level Order Traversal (Medium)
+UID:fc4f0e6d-f13f-497c-a932-cbf67a3d6e63@fc4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/fruit-into-baskets
+DURATION:PT1H
+DTSTART:20250409T000000Z
+SUMMARY:Solve: Fruit Into Baskets (Medium)
+UID:dd383ebf-b3a2-47f8-9903-196251ecda58@dd38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-k-closest-elements
+DURATION:PT1H
+DTSTART:20250406T000000Z
+SUMMARY:Solve: Find K Closest Elements (Medium)
+UID:891aa926-91d2-46b2-be9c-504527f3b6aa@891a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/first-missing-positive
+DURATION:PT1H
+DTSTART:20250114T000000Z
+SUMMARY:Solve: First Missing Positive (Hard)
+UID:acb9cf57-1ed7-4536-bbe0-017c0a180b57@acb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-tree-maximum-path-sum
+DURATION:PT1H
+DTSTART:20250525T000000Z
+SUMMARY:Solve: Binary Tree Maximum Path Sum (Hard)
+UID:3dd20943-c693-4626-ab8d-5843dab86adf@3dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/palindrome-partitioning
+DURATION:PT1H
+DTSTART:20250127T000000Z
+SUMMARY:Solve: Palindrome Partitioning (Medium)
+UID:900fafad-6a88-4326-8fad-ee4b57a372fc@900f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/factor-combinations
+DURATION:PT1H
+DTSTART:20250623T000000Z
+SUMMARY:Solve: Factor Combinations (Medium)
+UID:2cccf3cd-0e76-4d50-b3d1-da9673d00766@2ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/kth-largest-element-in-an-array
+DURATION:PT1H
+DTSTART:20250422T000000Z
+SUMMARY:Solve: Kth Largest Element in an Array (Medium)
+UID:dacd7fef-ad1e-47bf-a2a7-d0db65dce35f@dacd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/subsets-ii
+DURATION:PT1H
+DTSTART:20250118T000000Z
+SUMMARY:Solve: Subsets II (Medium)
+UID:8782083d-925f-445d-ac4e-86247d68fcdf@8782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sort-colors
+DURATION:PT1H
+DTSTART:20250605T000000Z
+SUMMARY:Solve: Sort Colors (Medium)
+UID:0a3b5c02-ae0b-4f7d-80f2-e6586f83a409@0a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/merge-two-binary-trees
+DURATION:PT1H
+DTSTART:20250513T000000Z
+SUMMARY:Solve: Merge Two Binary Trees (Easy)
+UID:e876cb45-7c43-488d-ac48-723670c16f58@e876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/minimum-size-subarray-sum
+DURATION:PT1H
+DTSTART:20250408T000000Z
+SUMMARY:Solve: Minimum Size Subarray Sum (Medium)
+UID:99263a4f-5f53-4da7-8aab-2bb8430a811a@9926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/backspace-string-compare
+DURATION:PT1H
+DTSTART:20250601T000000Z
+SUMMARY:Solve: Backspace String Compare (Easy)
+UID:ed78cc43-9ecd-4323-b45e-66d78902a603@ed78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/rotate-list
+DURATION:PT1H
+DTSTART:20250310T000000Z
+SUMMARY:Solve: Rotate List (Medium)
+UID:41b6b142-7c08-44a5-856f-404158056252@41b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/add-two-numbers
+DURATION:PT1H
+DTSTART:20250301T000000Z
+SUMMARY:Solve: Add Two Numbers (Medium)
+UID:c2e623ca-f56f-420e-8f4a-52eeca87a023@c2e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/3sum
+DURATION:PT1H
+DTSTART:20250602T000000Z
+SUMMARY:Solve: 3Sum (Medium)
+UID:e8b86116-5ec6-49da-b7d3-0c8e12ee107f@e8b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/container-with-most-water
+DURATION:PT1H
+DTSTART:20250607T000000Z
+SUMMARY:Solve: Container With Most Water (Medium)
+UID:2f77ad2f-2031-40db-85a2-5068d75c278c@2f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-bst
+DURATION:PT1H
+DTSTART:20250418T000000Z
+SUMMARY:Solve: Kth Smallest Element in a BST (Medium)
+UID:d9131c21-4977-471d-9695-af71f893e44f@d913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/alien-dictionary
+DURATION:PT1H
+DTSTART:20250430T000000Z
+SUMMARY:Solve: Alien Dictionary (Hard)
+UID:41bc0e8e-3915-4b07-9a2d-e20c0056f28c@41bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/combinations
+DURATION:PT1H
+DTSTART:20250121T000000Z
+SUMMARY:Solve: Combinations (Medium)
+UID:269f4e58-7757-40dd-a0b2-60dbe0a5a173@269f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-all-duplicates-in-an-array
+DURATION:PT1H
+DTSTART:20250109T000000Z
+SUMMARY:Solve: Find All Duplicates in an Array (Medium)
+UID:7de901de-de4a-4649-99a2-a19b7c5436f9@7de9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sequence-reconstruction
+DURATION:PT1H
+DTSTART:20250501T000000Z
+SUMMARY:Solve: Sequence Reconstruction (Medium)
+UID:1f063da4-3b18-440e-ba80-3d0f4cccf0c0@1f06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-the-duplicate-number
+DURATION:PT1H
+DTSTART:20250108T000000Z
+SUMMARY:Solve: Find the Duplicate Number (Medium)
+UID:229d6733-e09f-40ee-b825-e53be63e4dd3@229d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/swap-nodes-in-pairs
+DURATION:PT1H
+DTSTART:20250311T000000Z
+SUMMARY:Solve: Swap Nodes in Pairs (Medium)
+UID:ec28c41e-eff5-4af4-a706-64e2f86eb61b@ec28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/contains-duplicate
+DURATION:PT1H
+DTSTART:20250103T000000Z
+SUMMARY:Solve: Contains Duplicate (Easy)
+UID:533180a5-586e-42d2-af2c-8dfc9d5afa50@5331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/linked-list-cycle
+DURATION:PT1H
+DTSTART:20250222T000000Z
+SUMMARY:Solve: Linked List Cycle (Easy)
+UID:40b03bc6-e2dd-4bbf-8ee4-80dbcce186ec@40b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/employee-free-time
+DURATION:PT1H
+DTSTART:20250327T000000Z
+SUMMARY:Solve: Employee Free Time (Hard)
+UID:0eb73643-eac0-4739-89fe-5d5d3d0e2abb@0eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/word-break
+DURATION:PT1H
+DTSTART:20250211T000000Z
+SUMMARY:Solve: Word Break (Medium)
+UID:00b5a8ac-178a-40aa-a5c3-8165ee14252f@00b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-product-subarray
+DURATION:PT1H
+DTSTART:20250208T000000Z
+SUMMARY:Solve: Maximum Product Subarray (Medium)
+UID:8c8deff3-7386-4ca3-b0b4-fc31ecb3769d@8c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/validate-binary-search-tree
+DURATION:PT1H
+DTSTART:20250523T000000Z
+SUMMARY:Solve: Validate Binary Search Tree (Medium)
+UID:ff8ee95c-2455-43fd-ad1b-3a98ba7a81c6@ff8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+DURATION:PT1H
+DTSTART:20250318T000000Z
+SUMMARY:Solve: Smallest Range Covering Elements from K Lists (Hard)
+UID:4f565acd-4e56-4b4d-907c-9a952e949aa8@4f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/reorganize-string
+DURATION:PT1H
+DTSTART:20250423T000000Z
+SUMMARY:Solve: Reorganize String (Medium)
+UID:f80bf8bd-3a63-4165-b76b-eff0ccce0a58@f80b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/combination-sum-iv
+DURATION:PT1H
+DTSTART:20250212T000000Z
+SUMMARY:Solve: Combination Sum IV (Medium)
+UID:baa7822b-7599-4272-b5f9-d30adac5aa64@baa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-peak-element
+DURATION:PT1H
+DTSTART:20250401T000000Z
+SUMMARY:Solve: Find Peak Element (Medium)
+UID:78c56d33-3caa-485f-9fcc-b739d836195a@78c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/graph-valid-tree
+DURATION:PT1H
+DTSTART:20250307T000000Z
+SUMMARY:Solve: Graph Valid Tree (Medium)
+UID:ab974f8a-3a85-4b4d-a89c-1b1a0163d4ae@ab97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/house-robber
+DURATION:PT1H
+DTSTART:20250202T000000Z
+SUMMARY:Solve: House Robber (Medium)
+UID:a686d52a-7199-4b6e-96a7-9fdcf314261d@a686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/subarray-product-less-than-k
+DURATION:PT1H
+DTSTART:20250604T000000Z
+SUMMARY:Solve: Subarray Product Less Than K (Medium)
+UID:e20e0be6-a496-4125-8584-55fd1817e535@e20e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/subtree-of-another-tree
+DURATION:PT1H
+DTSTART:20250515T000000Z
+SUMMARY:Solve: Subtree of Another Tree (Easy)
+UID:73ed7475-9b61-4e33-aebf-cda359e4a69a@73ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+DURATION:PT1H
+DTSTART:20250315T000000Z
+SUMMARY:Solve: Kth Smallest Element in a Sorted Matrix (Medium)
+UID:f05b7e33-9a97-4c29-9fe6-dcd233c19dbe@f05b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/sudoku-solver
+DURATION:PT1H
+DTSTART:20250130T000000Z
+SUMMARY:Solve: Sudoku Solver (Hard)
+UID:30b4c721-cb96-435b-91ef-74f480d5c2ee@30b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/coin-change
+DURATION:PT1H
+DTSTART:20250207T000000Z
+SUMMARY:Solve: Coin Change (Medium)
+UID:bb79c5b4-6c8e-4573-aa91-03e501a37335@bb79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/same-tree
+DURATION:PT1H
+DTSTART:20250509T000000Z
+SUMMARY:Solve: Same Tree (Easy)
+UID:03a0b06d-92c6-4dd7-943b-922cd0198b45@03a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+DURATION:PT1H
+DTSTART:20250519T000000Z
+SUMMARY:Solve: Lowest Common Ancestor of a Binary Tree (Medium)
+UID:6e798f68-4751-4341-a4a9-3ca74e32e004@6e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/course-schedule-iii
+DURATION:PT1H
+DTSTART:20250425T000000Z
+SUMMARY:Solve: Course Schedule III (Hard)
+UID:49940589-ec53-446d-8d7b-4a4addaf370a@4994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/average-of-levels-in-binary-tree
+DURATION:PT1H
+DTSTART:20250503T000000Z
+SUMMARY:Solve: Average of Levels in Binary Tree (Easy)
+UID:1c5e925d-874b-471a-92f5-f1c6f4cf6b9d@1c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+DURATION:PT1H
+DTSTART:20250506T000000Z
+SUMMARY:Solve: Binary Tree Zigzag Level Order Traversal (Medium)
+UID:9c98840d-0a99-40d2-a869-12f6e37db230@9c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array
+DURATION:PT1H
+DTSTART:20250610T000000Z
+SUMMARY:Solve: Maximum XOR of Two Numbers in an Array (Medium)
+UID:2c0ccc5d-2900-4b4b-bebf-190333a4ea2d@2c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-search
+DURATION:PT1H
+DTSTART:20250328T000000Z
+SUMMARY:Solve: Binary Search (Easy)
+UID:521d2b89-a8e5-4b42-beae-c8b1359a6f20@521d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
+DURATION:PT1H
+DTSTART:20250414T000000Z
+SUMMARY:Solve: Minimum Number of K Consecutive Bit Flips (Hard)
+UID:1b6614d2-484b-490f-9e00-10d4352b5624@1b66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/generate-parentheses
+DURATION:PT1H
+DTSTART:20250125T000000Z
+SUMMARY:Solve: Generate Parentheses (Medium)
+UID:1b9a2dc2-7ff2-4ee0-8547-62c83d784a7b@1b9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/is-subsequence
+DURATION:PT1H
+DTSTART:20250621T000000Z
+SUMMARY:Solve: Is Subsequence (Easy)
+UID:0a67eca3-e1d4-4de5-ad56-1e8f4a0a2fea@0a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
+DURATION:PT1H
+DTSTART:20250308T000000Z
+SUMMARY:Solve: Number of Connected Components in an Undirected Graph (Medium)
+UID:8718e76b-0db1-442e-919d-e93048be0b4c@8718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/path-sum-ii
+DURATION:PT1H
+DTSTART:20250517T000000Z
+SUMMARY:Solve: Path Sum II (Medium)
+UID:0c0128d3-a3d1-42af-99dd-e499d29dca79@0c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/letter-case-permutation
+DURATION:PT1H
+DTSTART:20250116T000000Z
+SUMMARY:Solve: Letter Case Permutation (Medium)
+UID:2712a396-c43b-40a8-b39a-3fac592443a6@2712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/pacific-atlantic-water-flow
+DURATION:PT1H
+DTSTART:20250305T000000Z
+SUMMARY:Solve: Pacific Atlantic Water Flow (Medium)
+UID:b61b4553-c78a-44ff-82b7-d8c15cd18111@b61b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/binary-tree-paths
+DURATION:PT1H
+DTSTART:20250622T000000Z
+SUMMARY:Solve: Binary Tree Paths (Easy)
+UID:34756755-a5dd-45be-bac1-c1723c40778a@3475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/palindrome-linked-list
+DURATION:PT1H
+DTSTART:20250225T000000Z
+SUMMARY:Solve: Palindrome Linked List (Easy)
+UID:a4f79ffe-67dd-4e58-8a1c-20368906cb32@a4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/combination-sum
+DURATION:PT1H
+DTSTART:20250122T000000Z
+SUMMARY:Solve: Combination Sum (Medium)
+UID:d9f5a9c2-a70a-4188-903b-0b55bc322506@d9f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/odd-even-linked-list
+DURATION:PT1H
+DTSTART:20250312T000000Z
+SUMMARY:Solve: Odd Even Linked List (Medium)
+UID:b13e2646-1a9b-457b-99c6-68caed6c646b@b13e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/rearrange-string-k-distance-apart
+DURATION:PT1H
+DTSTART:20250424T000000Z
+SUMMARY:Solve: Rearrange String k Distance Apart (Hard)
+UID:a98fdb22-ca2f-4195-92a3-c22d13916836@a98f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/course-schedule-ii
+DURATION:PT1H
+DTSTART:20250428T000000Z
+SUMMARY:Solve: Course Schedule II (Medium)
+UID:971dbc8a-bdd4-4653-a93a-7132d2672609@971d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/target-sum
+DURATION:PT1H
+DTSTART:20250126T000000Z
+SUMMARY:Solve: Target Sum (Medium)
+UID:4015e091-43dc-4577-af08-3d855328ac6d@4015.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/linked-list-cycle-ii
+DURATION:PT1H
+DTSTART:20250228T000000Z
+SUMMARY:Solve: Linked List Cycle II (Medium)
+UID:665a5cdf-b38a-4120-a721-804d3c26e65e@665a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/subsets
+DURATION:PT1H
+DTSTART:20250117T000000Z
+SUMMARY:Solve: Subsets (Medium)
+UID:a994ee1a-7292-407f-8fa1-79a9b288f24e@a994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/palindromic-substrings
+DURATION:PT1H
+DTSTART:20250216T000000Z
+SUMMARY:Solve: Palindromic Substrings (Medium)
+UID:61c0a8d7-cde6-4647-9df5-cefe04cf16ba@61c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+DURATION:PT1H
+DTSTART:20250203T000000Z
+SUMMARY:Solve: Best Time to Buy and Sell Stock (Easy)
+UID:d3e90e4d-593f-4256-a53d-c3890e72527d@d3e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/permutation-in-string
+DURATION:PT1H
+DTSTART:20250410T000000Z
+SUMMARY:Solve: Permutation in String (Medium)
+UID:8bfa9f46-bd95-40ac-ac40-4fe6b3c77efc@8bfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array
+DURATION:PT1H
+DTSTART:20250402T000000Z
+SUMMARY:Solve: Search in Rotated Sorted Array (Medium)
+UID:6509a241-2b88-4075-b7ea-fdeb64b8b406@6509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+DURATION:PT1H
+DTSTART:20250508T000000Z
+SUMMARY:Solve: All Nodes Distance K in Binary Tree (Medium)
+UID:0fcff8f9-5dd7-44a9-9b51-d2e4dd840258@0fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays
+DURATION:PT1H
+DTSTART:20250617T000000Z
+SUMMARY:Solve: Median of Two Sorted Arrays (Hard)
+UID:1f5892db-e5f8-4c0f-be85-42bfea694d96@1f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/middle-of-the-linked-list
+DURATION:PT1H
+DTSTART:20250223T000000Z
+SUMMARY:Solve: Middle of the Linked List (Easy)
+UID:079fe31c-11d8-434c-b505-93fa53cc349e@079f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/trapping-rain-water
+DURATION:PT1H
+DTSTART:20250606T000000Z
+SUMMARY:Solve: Trapping Rain Water (Hard)
+UID:c0cfd561-91b3-4410-b27b-004f2673005c@c0cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/top-k-frequent-elements
+DURATION:PT1H
+DTSTART:20250420T000000Z
+SUMMARY:Solve: Top K Frequent Elements (Medium)
+UID:82ca9950-f465-4215-9895-12d03e5690b1@82ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/find-k-pairs-with-smallest-sums
+DURATION:PT1H
+DTSTART:20250316T000000Z
+SUMMARY:Solve: Find K Pairs with Smallest Sums (Medium)
+UID:225bb81e-e2fa-453b-a94b-e98b9f730720@225b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Problem Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence
+DURATION:PT1H
+DTSTART:20250217T000000Z
+SUMMARY:Solve: Number of Longest Increasing Subsequence (Medium)
+UID:3d80bb15-e53c-4053-bd24-43f5c39daebb@3d80.org
+END:VEVENT
+END:VCALENDAR
